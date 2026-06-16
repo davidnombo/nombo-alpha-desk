@@ -1,0 +1,219 @@
+{
+  "generatedAt": "2026-06-16T22:50:21.089670Z",
+  "source": "Hyperliquid public hourly candles, 14 days",
+  "note": "Fast triage only; simplistic fee model; no funding/slippage/liquidation model; not investment advice.",
+  "results": [
+    {
+      "coin": "BTC",
+      "candles": 337,
+      "from": "2026-06-02T22:00:00Z",
+      "to": "2026-06-16T22:00:00Z",
+      "best": {
+        "fast": 9,
+        "slow": 36,
+        "score": 0.65,
+        "returnPct": 1.95,
+        "trades": 6,
+        "winRate": 83.3,
+        "maxDrawdownPct": 2.6
+      },
+      "all": [
+        {
+          "fast": 9,
+          "slow": 36,
+          "score": 0.65,
+          "returnPct": 1.95,
+          "trades": 6,
+          "winRate": 83.3,
+          "maxDrawdownPct": 2.6
+        },
+        {
+          "fast": 12,
+          "slow": 48,
+          "score": -1.28,
+          "returnPct": -0.38,
+          "trades": 3,
+          "winRate": 33.3,
+          "maxDrawdownPct": 1.8
+        },
+        {
+          "fast": 6,
+          "slow": 24,
+          "score": -4.16,
+          "returnPct": -0.98,
+          "trades": 12,
+          "winRate": 41.7,
+          "maxDrawdownPct": 6.36
+        },
+        {
+          "fast": 18,
+          "slow": 72,
+          "score": -15.98,
+          "returnPct": -10.65,
+          "trades": 3,
+          "winRate": 0.0,
+          "maxDrawdownPct": 10.65
+        }
+      ]
+    },
+    {
+      "coin": "ETH",
+      "candles": 337,
+      "from": "2026-06-02T22:00:00Z",
+      "to": "2026-06-16T22:00:00Z",
+      "best": {
+        "fast": 9,
+        "slow": 36,
+        "score": 4.17,
+        "returnPct": 5.87,
+        "trades": 5,
+        "winRate": 60.0,
+        "maxDrawdownPct": 3.39
+      },
+      "all": [
+        {
+          "fast": 9,
+          "slow": 36,
+          "score": 4.17,
+          "returnPct": 5.87,
+          "trades": 5,
+          "winRate": 60.0,
+          "maxDrawdownPct": 3.39
+        },
+        {
+          "fast": 6,
+          "slow": 24,
+          "score": 3.73,
+          "returnPct": 7.78,
+          "trades": 17,
+          "winRate": 35.3,
+          "maxDrawdownPct": 8.11
+        },
+        {
+          "fast": 12,
+          "slow": 48,
+          "score": 1.39,
+          "returnPct": 3.8,
+          "trades": 5,
+          "winRate": 60.0,
+          "maxDrawdownPct": 4.82
+        },
+        {
+          "fast": 18,
+          "slow": 72,
+          "score": -26.66,
+          "returnPct": -17.77,
+          "trades": 7,
+          "winRate": 0.0,
+          "maxDrawdownPct": 17.77
+        }
+      ]
+    },
+    {
+      "coin": "SOL",
+      "candles": 337,
+      "from": "2026-06-02T22:00:00Z",
+      "to": "2026-06-16T22:00:00Z",
+      "best": {
+        "fast": 6,
+        "slow": 24,
+        "score": 10.61,
+        "returnPct": 12.95,
+        "trades": 11,
+        "winRate": 45.5,
+        "maxDrawdownPct": 4.68
+      },
+      "all": [
+        {
+          "fast": 6,
+          "slow": 24,
+          "score": 10.61,
+          "returnPct": 12.95,
+          "trades": 11,
+          "winRate": 45.5,
+          "maxDrawdownPct": 4.68
+        },
+        {
+          "fast": 12,
+          "slow": 48,
+          "score": 3.83,
+          "returnPct": 5.26,
+          "trades": 5,
+          "winRate": 40.0,
+          "maxDrawdownPct": 2.85
+        },
+        {
+          "fast": 9,
+          "slow": 36,
+          "score": 2.43,
+          "returnPct": 4.64,
+          "trades": 5,
+          "winRate": 80.0,
+          "maxDrawdownPct": 4.42
+        },
+        {
+          "fast": 18,
+          "slow": 72,
+          "score": -14.75,
+          "returnPct": -9.83,
+          "trades": 3,
+          "winRate": 0.0,
+          "maxDrawdownPct": 9.83
+        }
+      ]
+    },
+    {
+      "coin": "HYPE",
+      "candles": 337,
+      "from": "2026-06-02T22:00:00Z",
+      "to": "2026-06-16T22:00:00Z",
+      "best": {
+        "fast": 9,
+        "slow": 36,
+        "score": 9.47,
+        "returnPct": 11.62,
+        "trades": 5,
+        "winRate": 60.0,
+        "maxDrawdownPct": 4.3
+      },
+      "all": [
+        {
+          "fast": 9,
+          "slow": 36,
+          "score": 9.47,
+          "returnPct": 11.62,
+          "trades": 5,
+          "winRate": 60.0,
+          "maxDrawdownPct": 4.3
+        },
+        {
+          "fast": 12,
+          "slow": 48,
+          "score": 2.68,
+          "returnPct": 4.06,
+          "trades": 3,
+          "winRate": 66.7,
+          "maxDrawdownPct": 2.76
+        },
+        {
+          "fast": 6,
+          "slow": 24,
+          "score": -1.37,
+          "returnPct": 4.67,
+          "trades": 14,
+          "winRate": 28.6,
+          "maxDrawdownPct": 12.08
+        },
+        {
+          "fast": 18,
+          "slow": 72,
+          "score": -10.32,
+          "returnPct": -6.66,
+          "trades": 3,
+          "winRate": 33.3,
+          "maxDrawdownPct": 7.33
+        }
+      ]
+    }
+  ]
+}
