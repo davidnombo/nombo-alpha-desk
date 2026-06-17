@@ -6,6 +6,7 @@ Current edition includes:
 
 - Guardrail Studio: visual wallet permission planning and simulated MetaMask approval staging.
 - Strategy Builder: visual selector/dial/sliders for designing and launching paper trading strategies.
+- Yield Farm Studio: long-term holder yield plan designer for staged, approval-gated DeFi deployment.
 
 Fictional demo data only:
 
