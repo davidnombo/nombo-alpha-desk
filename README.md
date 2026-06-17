@@ -1,7 +1,13 @@
-# Nombo Alpha Desk
+# Nombo Alpha Desk — Public Demo
 
-A public snapshot dashboard for David Brown's Nombo + MetaMask Agent Wallet beta project.
+Public-safe commercial demo of a guarded AI operations desk for MetaMask Agent Wallet.
 
-This is a static GitHub Pages prototype. It shows wallet/perps capability mapping, paper-strategy triage, a checklist, and Consensys feedback notes. It does not contain private keys, seed phrases, CLI tokens, or signing capability.
+This repository intentionally uses **fictional demo data only**:
 
-Not financial advice. Live trading requires explicit human approval and wallet policy checks.
+- demo wallet value: $10,000
+- masked demo address only
+- no real wallet balances
+- no real transaction hashes
+- no private wallet history
+
+Live/private operator data belongs in a private dashboard, not GitHub Pages.
