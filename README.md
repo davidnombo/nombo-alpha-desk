@@ -2,11 +2,12 @@
 
 Public-safe commercial demo of a guarded AI operations desk for MetaMask Agent Wallet.
 
-## Current edition
+Current edition includes:
 
-Guardrail Studio edition: a simulated visual policy workbench for explaining wallet permissions, tuning demo outflow caps, previewing policy diffs, and showing how a MetaMask approval request would be staged.
+- Guardrail Studio: visual wallet permission planning and simulated MetaMask approval staging.
+- Strategy Builder: visual selector/dial/sliders for designing and launching paper trading strategies.
 
-This repository intentionally uses **fictional demo data only**:
+Fictional demo data only:
 
 - demo wallet value: $10,000
 - masked demo address only
